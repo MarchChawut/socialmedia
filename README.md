@@ -40,4 +40,4 @@
 - Profile Page
 - Full Stack MERN React Application Complete
 
-Cr. Youtube Chanel EdRoh -> https://www.youtube.com/watch?v=K8YELRmUb5o&t=285s
+Cr. Youtube Channel EdRoh -> https://www.youtube.com/watch?v=K8YELRmUb5o&t=285s
