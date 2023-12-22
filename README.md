@@ -24,21 +24,21 @@
 - Backend Installation of Node, Visual Studio Code, and Backend Packages ✔️
 - Backend Configurations and Middleware Setup ✔️
 - MongoDB Registering, Installation and Setup ✔️
-- Data Modeling and ERD Diagrams
-- Authentication and Authorization in Node
-- User Routes Setup
-- Post Routes Setup
-- Backend Data Add and Demo
-- Frontend Installation and Setup
-- React Redux File Folder Architecture and React Router
-- Redux and Toolkit Installation and Setup
-- Color, Theme, Dark Mode, and Styling Setup
-- Navbar
-- Register, Login Pages, and Form
-- Home Page and Widgets
-- Posts and Post Widgets
-- Profile Page
-- Full Stack MERN React Application Complete
+- Data Modeling and ERD Diagrams 🤔
+- Authentication and Authorization in Node 🤔
+- User Routes Setup 🤔
+- Post Routes Setup 🤔
+- Backend Data Add and Demo 🤔
+- Frontend Installation and Setup 🤔
+- React Redux File Folder Architecture and React Router 🤔
+- Redux and Toolkit Installation and Setup 🤔
+- Color, Theme, Dark Mode, and Styling Setup 🤔
+- Navbar 🤔
+- Register, Login Pages, and Form 🤔
+- Home Page and Widgets 🤔
+- Posts and Post Widgets 🤔
+- Profile Page 🤔
+- Full Stack MERN React Application Complete 🤔
 
 Cr. Youtube Channel EdRoh -> [Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI](https://www.youtube.com/watch?v=K8YELRmUb5o&t=285s)
 
