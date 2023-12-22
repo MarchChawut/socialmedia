@@ -4,7 +4,7 @@
 - npm init -y
 - npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
 - ใน package.json
-  - "type": "module", (ต่อจาก main)
+  - "type": "module", (ต่อจาก main) //แก้ error
   - "dev": "nodemon index.js"
 - สร้างไฟล์ index.js
     import express from 'express';
@@ -46,5 +46,19 @@
 
 - create mongodb
   - สร้างไฟล์ .env
-    MONGO_URL = mongodb+srv://dtctrd:<password>@cluster0.mntf6gr.mongodb.net/?retryWrites=true&w=majority
     PORT = 3001 //front-end
+
+- สร้างโฟลเดอร์ build/assets เพื่อใช้ในการเก็บเว็บ (ลูกของ server)
+
+**************************
+app.use(bodyParser.json({ extended: true })) 
+คือ ปกติมันจะ handle อยู่ใน type ของ string / array
+แต่ถ้า extended: true คือ เอาทุก type ข้อมูล
+**************************
+
+- ทำการเชื่อมต่อฐานข้อมูล mongodb atlas และ mongodb compass
+- file post.json / user.json ในโฟลเดอร์ data
+
+## วิธีเชื่อต่อฐานข้อมูลเข้ากับ Back-End
+- copy path จาก mongodb atlas ไปวางใน .env  
+  -> MONGO_URL = mongodb+srv://dtctrd:<password>@cluster0.mntf6gr.mongodb.net/?retryWrites=true&w=majority
