@@ -45,4 +45,4 @@ Cr. Youtube Channel EdRoh -> [Build a COMPLETE Fullstack Responsive MERN App wit
 
 ![Work Flow](/server/data/flow.png)
 
-![Database Design](../server/data/database_design.png)
+![Database Design](/server/data/database_design.png)
