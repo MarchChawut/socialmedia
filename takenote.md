@@ -62,3 +62,9 @@ app.use(bodyParser.json({ extended: true }))
 ## วิธีเชื่อต่อฐานข้อมูลเข้ากับ Back-End
 - copy path จาก mongodb atlas ไปวางใน .env  
   -> MONGO_URL = mongodb+srv://dtctrd:<password>@cluster0.mntf6gr.mongodb.net/?retryWrites=true&w=majority
+
+
+# create folder "frontend"
+- md frontend & cd frontend
+- npx create-react-app .
+- npm i react-redux @reduxjs/toolkit react-router-dom redux-persist react-dropzone dotenv formik yup @mui/material @emotion/react @emotion/styled @mui/icons-material
