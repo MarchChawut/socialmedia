@@ -24,7 +24,7 @@
 - Backend Installation of Node, Visual Studio Code, and Backend Packages ✔️
 - Backend Configurations and Middleware Setup ✔️
 - MongoDB Registering, Installation and Setup ✔️
-- Data Modeling and ERD Diagrams 🤔
+- Data Modeling and ERD Diagrams ✔️
 - Authentication and Authorization in Node 🤔
 - User Routes Setup 🤔
 - Post Routes Setup 🤔
